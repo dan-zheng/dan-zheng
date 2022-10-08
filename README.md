@@ -10,7 +10,7 @@ machine learning - in particular on [Swift for TensorFlow][s4tf] and
 Some writings:
 - [What types work with differentiation?][differentiable-types]
 - [Automatic differentiation vs differentiable programming][autodiff-vs-dp]
-- [Blog][blog] (many unpublished drafts, let me know if you want to read more)
+- [Blog][blog] (many unpublished drafts, poke me if you want to read more)
 
 [autodiff-vs-dp]: https://stackoverflow.com/a/61733305/5365899
 [blog]: https://danzheng.me/blog
