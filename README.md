@@ -1,3 +1,5 @@
+Hi there, I'm Dan!
+
 I’m interested in programming languages and machine learning.
 
 Currently, I work on machine learning for code and software engineering at
